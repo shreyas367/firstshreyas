@@ -1,5 +1,5 @@
 # firstshreyas
 <br>
-hii myself shreyas ranjan 
+hii myself SHREYAS RANJAN
 <br>
 helloi first git project
